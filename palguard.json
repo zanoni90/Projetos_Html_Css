@@ -1,0 +1,45 @@
+{
+    "RCONbase64": false,
+    "adminAutoLogin": false,
+    "adminIPs": [
+        "127.0.0.1",
+        "26.241.140.124",
+        "35.247.249.49"
+    ],
+    "allowAdminCheats": false,
+    "announceConnections": false,
+    "announcePunishments": false,
+    "bannedChatWords": [
+        "mmoexp",
+        "mm0exp"
+    ],
+    "bannedIPs": [],
+    "bannedMessage": "You are not welcome on this server :(",
+    "bannedNames": [
+        "anquan666",
+        "Goldberg"
+    ],
+    "blockTowerBossCapture": true,
+    "chatBypassWait": true,
+    "disableButchering": false,
+    "disableIllegalItemProtection": false,
+    "disableRenaming": false,
+    "doActionUponIllegalPalStats": true,
+    "isChineseCmd": false,
+    "logChat": true,
+    "logNetworking": false,
+    "logRCON": false,
+    "palStatsMaxRank": -1,
+    "pveMaxToPalBanThreshold": 900000,
+    "pvpMaxToBuildingDamage": 100,
+    "pvpMaxToPalDamage": 1000,
+    "shouldBanCheaters": false,
+    "shouldIPBanCheaters": false,
+    "shouldKickCheaters": true,
+    "shouldWarnCheaters": true,
+    "shouldWarnCheatersReason": false,
+    "steamidProtection": true,
+    "useAdminWhitelist": true,
+    "useWhitelist": false,
+    "whitelistMessage": "You are not whitelisted. You can apply for whitelist at *insert your discord link or whatever here*"
+}
